@@ -161,7 +161,7 @@
      background: #f9f9f9;
 }
  .theme_bg {
-     background: #38c8a8;
+     background: #f0bb0e;
 }
  .margin_top_30 {
      margin-top: 30px !important;
@@ -187,12 +187,12 @@
      font-weight: 400;
      position: relative;
      letter-spacing: -0.5px;
-     color: #114c7d;
-     border-left: solid #38c8a8 10px;
+     color: #f0bb0e;
+     border-left: solid #f0bb0e 10px;
      padding-left: 15px;
 }
  .main_heading h2 strong {
-     background: #38c8a8;
+     background: #f0bb0e;
      color: #fff;
      font-weight: 600;
      padding: 0 15px;
@@ -219,7 +219,7 @@
      letter-spacing: -0.5px;
 }
  .small_main_heading h2 strong {
-     color: #38c8a8;
+     color: #f0bb0e;
      font-weight: 600;
 }
  .main_bt {
@@ -285,7 +285,7 @@
      padding: 0px 5px;
      text-transform: uppercase;
      font-weight: 600;
-     background: #38c8a8;
+     background: #f0bb0e;
      position: fixed;
      bottom: 20px;
      z-index: 99;
@@ -438,7 +438,7 @@
      text-decoration: none;
 }
  .top-menu-left li a:hover {
-     color: #38c8a8;
+     color: #f0bb0e;
 }
  .right-dropdown-language {
      float: right;
@@ -454,7 +454,7 @@
      padding: 15px;
      background: #ffffff;
      list-style: none;
-     border: 2px solid #38c8a8;
+     border: 2px solid #f0bb0e;
      opacity: 0;
      visibility: hidden;
      -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -489,7 +489,7 @@
      padding: 5px 0;
 }
  .dropdown-bar .dropdown-link li a:hover {
-     color: #38c8a8;
+     color: #f0bb0e;
 }
  .dropdown-bar .dropdown-link li a img {
      margin-right: 7px;
@@ -544,7 +544,7 @@
      border-radius: 0px;
 }
  #login-modal .modal-content .modal-header {
-     background: #38c8a8;
+     background: #f0bb0e;
      border-radius: 0;
 }
  #login-modal .modal-content .modal-body .form-group input {
@@ -614,7 +614,7 @@
      font-size: 20px;
      padding: 4px 15px;
      border-radius: 0px;
-     background-color: #38c8a8;
+     background-color: #f0bb0e;
      cursor: pointer;
 }
  .header-search form .search-btn:hover {
@@ -636,7 +636,7 @@
      padding: 15px;
      background: #ffffff;
      list-style: none;
-     border: 2px solid #38c8a8;
+     border: 2px solid #f0bb0e;
      opacity: 0;
      visibility: hidden;
      -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -658,7 +658,7 @@
      transform: scaleY(1);
 }
  .inner-cart {
-     background: #38c8a8;
+     background: #f0bb0e;
      border-radius: 2px;
      padding: 0px;
      color: #ffffff;
@@ -679,10 +679,10 @@
      display: inline-block;
 }
  .cart-box a:hover {
-     color: #38c8a8;
+     color: #f0bb0e;
 }
  .cart-box a span.icon {
-     background: #38c8a8;
+     background: #f0bb0e;
      width: 30px;
      height: 40px;
      display: inline-block;
@@ -697,7 +697,7 @@
      right: -8px;
      top: -8px;
      line-height: initial;
-     background: #38c8a8;
+     background: #f0bb0e;
      padding: 3px;
      border-radius: 50%;
      width: 17px;
@@ -713,10 +713,10 @@
      display: inline-block;
 }
  .wish-box a:hover {
-     color: #38c8a8;
+     color: #f0bb0e;
 }
  .wish-box a span.icon {
-     background: #38c8a8;
+     background: #f0bb0e;
      width: 40px;
      height: 40px;
      display: inline-block;
@@ -755,7 +755,7 @@
      left: 0;
      width: 100%;
      height: 100%;
-     background-color: #38c8a8;
+     background-color: #f0bb0e;
      opacity: 0.4;
      transform: scale(0);
      -webkit-transform: scale(0);
@@ -771,7 +771,7 @@
      position: absolute;
      right: 0px;
      top: 0px;
-     background: #38c8a8;
+     background: #f0bb0e;
      color: #ffffff;
      width: 20px;
      height: 20px;
@@ -795,7 +795,7 @@
  .subtotal {
      text-align: left;
      text-transform: capitalize;
-     color: #38c8a8;
+     color: #f0bb0e;
      font-weight: 500;
      margin-bottom: 15px;
 }
@@ -824,7 +824,7 @@
      right: -8px;
      top: -8px;
      line-height: initial;
-     background: #38c8a8;
+     background: #f0bb0e;
      padding: 3px;
      border-radius: 50%;
      width: 17px;
@@ -833,7 +833,7 @@
 }
 .menu-area-main li.active a {
      color: #fff;
-     background: #0ed1f0;
+     background: #f0bb0e;
      border-radius: 17px;
      }
 
@@ -874,7 +874,7 @@ transition: all 0.3s ease-in;
      background: #ffffff;
 }
  .main-menu ul>li .sub-down li a {
-     color: #114c7d;
+     color: #f0bb0e;
      font-size: 15px;
      text-transform: capitalize;
      font-weight: 300;
@@ -998,7 +998,7 @@ transition: all 0.3s ease-in;
   .text-bg span {
      font-size: 80px;
 line-height: 80px;
-color: #0fc9da;
+color: #f0bb0e;
 text-transform: uppercase;
   }
  .text-bg h1 {
@@ -1032,14 +1032,14 @@ margin-right: 10px;
 transition: ease all 0.5s;
  }
  .text-bg a:hover {
-     background-color: #0ed1f0;
+     background-color: #f0bb0e;
     color: #fff;
     transition: ease all 0.5s;          
 }
  .text {
      position: inherit;
      text-align: left;
-     background: #0fbbad;
+     background: #f0bb0e;
      width: 100%;
      bottom: auto;
      padding: 0;
@@ -1089,7 +1089,7 @@ transition: ease all 0.5s;
 
 .carousel-control-prev i {
  background: #f9f9f9;
-    color: #03daee;
+    color: #f0bb0e;
     width: 70px;
     height: 70px;
      font-size: 20px;
@@ -1101,7 +1101,7 @@ transition: ease all 0.5s;
 }
 .carousel-control-next i {
     background: #f9f9f9;
-    color: #03daee;
+    color: #f0bb0e;
     width: 70px;
     font-size: 20px;
     height: 70px;
@@ -1176,8 +1176,8 @@ border-radius: 30px;
 
 
  .about .about-box a:hover{ 
-     background-color: #0ed1f0;
-     border: #0ed1f0 solid 1px;
+     background-color: #f0bb0e;
+     border: #f0bb0e solid 1px;
     color: #fff;
  }
  .about .about-box figure {
@@ -1229,8 +1229,8 @@ float: left;
 margin-top: 53px;
 }
  .box_text a:hover {
-     background-color: #0ed1f0;
-     border: #0ed1f0 solid 1px;
+     background-color: #f0bb0e;
+     border: #f0b40e solid 1px;
      color: #fff;
 }
 .padding_left3 {padding-right: 0px;}
@@ -1291,7 +1291,7 @@ margin-top: 53px;
 
 .hover_box {
 
-background: #0ed1f0bf;
+background: #f0bb0e;
 display: flex;
 justify-content: center;
 position: absolute;
@@ -1310,8 +1310,8 @@ transition: ease-in all 0.5s;
      transition: ease-in all 0.5s;
 }
  .Gallery_text a:hover {
-     background-color: #0ed1f0;
-     border: #0ed1f0 solid 1px;
+     background-color: #f0bb0e;
+     border: #f0bb0e solid 1px;
      color: #fff;
 }
 ul.icon_hu {text-align: center;}
@@ -1329,7 +1329,7 @@ ul.icon_hu li {padding: 10px 3px; display: inline-block;}
      padding-bottom: 60px;
 }
 .titlepage span {padding-top: 30px; display: inline-block; font-size: 17px; color: #000;}
-.yellow {color: #200769; font-weight: bold;}
+.yellow {color: #f0bb0e; font-weight: bold;}
  .titlepage h2 {
      padding: 0;
      color: #000;
@@ -1383,7 +1383,7 @@ ul.icon_hu li {padding: 10px 3px; display: inline-block;}
      border-radius: 30px;
 }
 .contact_bg .send:hover {
-     background-color: #0fb0d3;
+     background-color: #f0bb0e;
 
 color: #fff;
 transition: all 0.3s ease-in;
@@ -1438,8 +1438,8 @@ margin: 0 auto;
  .submit {
 
     height: 52px;
-    border: #0fb0d3 solid 1px;
-     background: #0fb0d3;
+    border: #f0bb0e solid 1px;
+     background: #f0bb0e;
      color: #fff;
      margin-left: -5px;
      font-weight: 500;
@@ -1452,7 +1452,7 @@ margin: 0 auto;
  .submit:hover {
      background: #ddd;
      border: #ddd solid 1px;
-     color: #0fb0d3;
+     color: #f0bb0e;
      transition: all 0.3s ease-in;
 
 }
@@ -1494,7 +1494,7 @@ flex-wrap: wrap;
  ul.social_link li a  {
     font-size: 24px;
 color: #161616;
-background: #0fb0d3;
+background: #f0bb0e;
 border-radius: 80px;
 display: flex;
 align-items: center;
@@ -1525,7 +1525,7 @@ justify-content: center;
      color: #fff;
 }
  .copyright a:hover {
-     color: #0fb0d3 ;
+     color: #f0bb0e ;
 }
 /** end footer **/
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/
@@ -1533,7 +1533,7 @@ justify-content: center;
 
 .contineer_page .header {background: #656565; padding-bottom: 27px;     position: inherit;}
 
-.backgro_mh {background: #0ed1f0; }
+.backgro_mh {background: #f0bb0e; }
 .heding h2 {
      color: #fff;
 font-size: 60px;
